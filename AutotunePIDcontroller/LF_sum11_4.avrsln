@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "LF_sum11_4", "LF_sum11_4\LF_sum11_4.avrgccproj", "{1AAC9C21-6223-4452-9659-A1972994D48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAC9C21-6223-4452-9659-A1972994D48A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1AAC9C21-6223-4452-9659-A1972994D48A}.Debug|AVR.Build.0 = Debug|AVR
+		{1AAC9C21-6223-4452-9659-A1972994D48A}.Release|AVR.ActiveCfg = Release|AVR
+		{1AAC9C21-6223-4452-9659-A1972994D48A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

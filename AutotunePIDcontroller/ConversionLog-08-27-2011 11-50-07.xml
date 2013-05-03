@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<?xml-stylesheet type='text/xsl' href='AVRStudioConversionLog.xslt'?>
+<ConversionLog>
+  <Project name="LF_sum11_4" id="LF_sum11_4" status="Success">
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Source Project Path: F:\Codes\C_AVRStudio\AVRStudio4\LF_sum11_4\LF_sum11_4.aps</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Studio5 Project Path: F:\Codes\C_AVRStudio\AVRStudio5\LF_sum11_4\LF_sum11_4\LF_sum11_4.avrgccproj</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Studio5 Solution Path: F:\Codes\C_AVRStudio\AVRStudio5\LF_sum11_4\LF_sum11_4.avrsln</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Started : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Completed : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Started : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Completed : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Started : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>8/27/2011 11:50:03 AM</DateTime>
+      <Message>Skipped reading Build Dependency settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing Memory settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing Memory settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Skipped reading Pre/Post build event settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Create AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Create AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Updating AVR Studio 5 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Updating AVR Studio 5 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Updating AVR Studio 5 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Updating AVR Studio 5 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Completed : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:04 AM</DateTime>
+      <Message>Started : Saving AVR Studio 5 Solution</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:06 AM</DateTime>
+      <Message>Completed : Saving AVR Studio 5 Solution</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:06 AM</DateTime>
+      <Message>Started : Updating Configurations In AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating Configurations In AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating Build Dependencies in AVR Studio 5 Solution for the project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating Build Dependencies in AVR Studio 5 Solution for the project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating ProjectLevelToolchainSettings In AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>No valid build tools defined. Resetting to Global Toolchain Path Settings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating ProjectLevelToolchainSettings In AVR Studio 5 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating MemorySettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating MemorySettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating ToolChainSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating ToolChainSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating FileLevelSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating FileLevelSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Started : Updating ExternalMakeFileSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>Completed : Updating ExternalMakeFileSettings In AVR Studio 5 Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Success</Type>
+      <DateTime>8/27/2011 11:50:07 AM</DateTime>
+      <Message>AVR Studio 5 Project Created Successfully</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+  </Project>
+</ConversionLog>
